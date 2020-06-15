@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sqlAdministratorLogin": {
-      "value": "GEN-UNIQUE"
+      "value": "SQLLabAdmin"
     },
     "sqlAdministratorLoginPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "6!apqR4y$hG2wI84$JkUHtT4X"
     }
   }
 }
